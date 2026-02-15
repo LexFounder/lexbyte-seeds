@@ -1,1 +1,1 @@
-/onion3/gzyhfkek375n5nrdinweunx74sejfhvba5mab527wcc7p6eu2uimqkad/tcp/9777
+gzyhfkek375n5nrdinweunx74sejfhvba5mab527wcc7p6eu2uimqkad.onion:9777
